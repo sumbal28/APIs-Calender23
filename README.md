@@ -94,7 +94,18 @@ Table of Contents
 .Moment JS -https://momentjs.com/
 2.Screenshots
 
+User Story
+
+Daily planner to organise and manage time schedule from 09:00am to 17:00pm
+
+Acceptance Criteria
+
+Current day apperas in the daily planer
+In timeblock can enter an event and save.
+Bootstrap,jQuery applied in the app as in script tag.
 
 
----
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
+
+
